@@ -1,6 +1,6 @@
 {
   "name": "simplicial-complex-boundary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extracts the boundary of a simplicial complex",
   "main": "boundary.js",
   "directories": {
